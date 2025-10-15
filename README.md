@@ -64,7 +64,7 @@
 
 ## 💼 Experience  
 
-### 🧑‍💻 Front-End Developer Intern — [Neobrim](https://neobrim.com)
+### 🧑‍💻 Front-End Developer Intern — Neobrim
 📅 *Jan 2024 – Mar 2024*  
 - Developed responsive React components improving user engagement.  
 - Integrated APIs seamlessly and optimized rendering for performance.  
